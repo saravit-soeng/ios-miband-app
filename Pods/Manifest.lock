@@ -1,0 +1,24 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - CocoaMQTT (1.2.5):
+    - CocoaAsyncSocket (~> 7.6.3)
+  - Pulsator (0.6.0)
+
+DEPENDENCIES:
+  - CocoaMQTT
+  - Pulsator
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - CocoaMQTT
+    - Pulsator
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  CocoaMQTT: a61490ed3b328011c5d75169a77781983e2bb221
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+
+PODFILE CHECKSUM: 3cffecf8d1a28508d16d6d40660a8d9f1c42d963
+
+COCOAPODS: 1.8.4
