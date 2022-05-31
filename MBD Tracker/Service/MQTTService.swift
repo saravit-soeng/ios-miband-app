@@ -11,7 +11,7 @@ class MQTTService {
     
     var mqtt: CocoaMQTT?
     final let username = "zzxb"
-    final let password = "zzxb+_)("
+    final let password = "1234"
     final let host = "147.182.226.231"
     final let port:UInt16 = 1883
     var isConnected = false
